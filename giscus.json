@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://aksh.dev"
+  ],
+  "originsRegex": [
+    "https://([A-z0-9]|-)*\\.aksh\\.dev",
+    "https://([A-z0-9]|-)*\\.aksh\\.app"
+  ],
+  "defaultCommentOrder": "oldest"
+}
